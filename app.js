@@ -4,7 +4,7 @@ const  mongoose = require("mongoose");
 
 const app = express();
 
-app.use("/api/user",require('./routes/userRoutes'))
+app.use("/api/user",require('./routes/users'))
 
 
 
