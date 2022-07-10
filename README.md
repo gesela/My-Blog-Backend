@@ -38,7 +38,13 @@ DATE | PROGRESS | BLOCKERS | GOALS |
 - to become popular blog site
 - to make easy for readers to leave comments
 - to add functionality like sharing contents in social media
-- give free support and to automatically search engine optimized
+- give free support and to automatically search engine optimized Pr
+
+ 
+### Problem unsolved
+-It comes on and off when i tried to deploy on amazon amplify
+-Proxy error: Could not proxy request /posts from localhost:3000 to http://localhost:5000/api/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
 
 #deployed app:
 https://main.d2kbqjp59avtb7.amplifyapp.com/
