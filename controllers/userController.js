@@ -9,9 +9,8 @@ const registerUser = async (req, res) => {
         const { firstName, lastName,  email, password } = req.body;
         let checker = [];
 
-        if(!firstName) checker.push({message: 'First name is required', type: 'error'});
-        if(!lastName) checker.push({message: 'Last name is required', type: 'error'});
-
+        if(!username) checker.push({message: 'User Name  is required', type: 'error'});
+        
         if(!password) checker.push({message: 'A valid Password is required', type: 'error'});
         if(password && (password.length < 8 || password.length > 12 )) checker.push({message: 'Password must be at least 6 - 12 characters long', type: 'error'});
 
