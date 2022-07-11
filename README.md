@@ -39,12 +39,17 @@ DATE | PROGRESS | BLOCKERS | GOALS |
 - to make easy for readers to leave comments
 - to add functionality like sharing contents in social media
 - give free support and to automatically search engine optimized Pr
+- the Features and Gallery Tab will be finished later on
 
  
 ### Problem unsolved
 -It comes on and off when i tried to deploy on amazon amplify
--Proxy error: Could not proxy request /posts from localhost:3000 to http://localhost:5000/api/.
-See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+-when updating my profile pic ,sometimes it's not updating.
+
 
 #deployed app:
 https://main.d2kbqjp59avtb7.amplifyapp.com/
+
+### My Blog app deployed on Netlify
+https://lucky-haupia-46d9b8.netlify.app/
+
