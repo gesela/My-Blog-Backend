@@ -53,3 +53,6 @@ https://main.d2kbqjp59avtb7.amplifyapp.com/
 ### My Blog app deployed on Netlify
 https://lucky-haupia-46d9b8.netlify.app/
 
+### Figma design
+https://www.figma.com/file/uhBi260HXjxbCXkY4eCNFB/Untitled?node-id=0%3A1
+
